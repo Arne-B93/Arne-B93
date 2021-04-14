@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+to do, continue
+
+https://www.w3schools.com/html/html_images_background.asp
