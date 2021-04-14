@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 to do, continue
 
 https://www.w3schools.com/html/html_images_background.asp
+
+post ipynb on blog
+- fastpages
+- ipython
