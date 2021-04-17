@@ -1,6 +1,6 @@
 body {
-  <!--  margin: 60px auto;
-    width: 70%;-->
+  margin: 60px auto;
+    width: 70%;
     heigth: 100%;
 }
 
@@ -81,7 +81,7 @@ ul.posts li {
   color: white;
 }
 
-
+<!--
 
 .bg-img {
   /* The image used */
@@ -126,7 +126,7 @@ ul.posts li {
   background-color: #ddd;
   color: black;
 }
-
+-->
 
 
 </style>
