@@ -47,7 +47,7 @@ ul.posts li {
 
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/20191201_170158.jpg");
-  width: 800px;
+  width: 100%;
   height: 533px;
   <!--height: 50%;-->
   background-position: center;
