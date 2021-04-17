@@ -87,7 +87,8 @@ ul.posts li {
   /* The image used */
   background-image: url("../images/resid_anal_2d.JPG");
 
-  min-height: 380px;
+  width: 800px;
+  height: 533px;
 
   /* Center and scale the image nicely */
   background-position: center;
