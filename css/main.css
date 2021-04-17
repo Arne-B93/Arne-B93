@@ -46,7 +46,7 @@ ul.posts li {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("resid_anal_2d.JPG");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/resid_anal_2d.JPG");
   width: 800px;
   height: 533px;
   <!--height: 50%;-->
@@ -85,7 +85,7 @@ ul.posts li {
 
 .bg-img {
   /* The image used */
-  background-image: url("https://github.com/Arne-B93/Arne-B93.github.io/blob/main/images/resid_anal_2d.JPG");
+  background-image: url("../images/resid_anal_2d.JPG");
 
   min-height: 380px;
 
