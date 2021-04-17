@@ -46,7 +46,7 @@ ul.posts li {
 }
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/resid_anal_2d.JPG");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/20191201_170158.jpg");
   width: 800px;
   height: 533px;
   <!--height: 50%;-->
@@ -81,9 +81,7 @@ ul.posts li {
   color: white;
 }
 
-<!--
-
-.bg-img {
+<!-- .bg-img {
   /* The image used */
   background-image: url("../images/resid_anal_2d.JPG");
 
@@ -125,8 +123,7 @@ ul.posts li {
 .topnav a:hover {
   background-color: #ddd;
   color: black;
-}
--->
+}-->
 
 
 </style>
